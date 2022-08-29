@@ -2,6 +2,9 @@
 
 RTL Persian Blog
 
+![Demo](https://github.com/mojtabamoradli/React-GraphQL-MUI-hygraph-Blog/blob/main/Demo.png?raw=true "Demo")
+
+
 # How to use
 ```diff
 + Download / Clone Project
